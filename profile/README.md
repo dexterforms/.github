@@ -6,9 +6,9 @@ We create super apps for
 - Web apps
 
 ## Our plans
-- Simple app - Rs. 10k - Rs. 20k
-- E-commerce app - Rs. 40k - Rs. 1L
-- Corporate plan - Rs 1L+
+- Simple app (5 to 10 pages) - Rs. 10k - Rs. 20k
+- E-commerce app (15 to 25 pages)- Rs. 40k - Rs. 1L
+- Advanced app (Unlimited) - Rs 1L+
 
 ## Members
 - Manoj Kumar Baruah
